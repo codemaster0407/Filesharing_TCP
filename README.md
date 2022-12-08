@@ -3,7 +3,7 @@ File sharing with sockets in python
 
 Required libraries to run the code
 
-REQUESTS
+SOCKET
 OS
 
 For sending the file across the same localhost, there is no need to change the code. Run the client and server in the same machine to share the file. 
